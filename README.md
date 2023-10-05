@@ -26,7 +26,7 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
  
   -  Doda sam razliku izmedu : Strimera i  Strimerica
 
-  -  Redezajniro sam Staff team jer ih pola nije uopce vise na serveru Tako i sa strimerima,
+  -  Redezajniro sam Staff team jer ih pola nije uopce vise na serveru Tako i sa strimerima ( CSS isto )
 
 
   # Evo to bi bilo to. Ja se nadam da cu jednog dana biti i ja na Revoluciji da moogu raditi sa njima (:.

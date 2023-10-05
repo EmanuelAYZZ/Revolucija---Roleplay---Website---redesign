@@ -5,12 +5,11 @@ Design by Seeki and its his script here is the link : https://github.com/Seekiii
 
 Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github.com/Seekiii/revolucija-roleplay-website 
 
+# ( NAPOMENA -- NIJE GOTOVO )
 
 - Ovo je moj redesign ove stranice ( NAPOMENA -- NIJE GOTOVO )
 
-- Treba jos sitnica odraditi.
 
-  
 
   # Sve sto sam dodao i redizajnirao :
 

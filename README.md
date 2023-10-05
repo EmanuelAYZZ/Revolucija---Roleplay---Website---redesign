@@ -12,7 +12,7 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
 
   
 
-  # Sve sto sam dodao i redesignirao :
+  # Sve sto sam dodao i redizajnirao :
 
   - Dodao sam Top Donatore,
  
@@ -24,9 +24,7 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
  
   -  Doda sam da se mozete spojiti i preko " Povezi se ! " na server ( Automatski vas baca u Fivem i joina na server ako imate whitelistu ! ),
  
-  -  Doda sam razliku izmedu : Strimera i 
-  -                          : Strimerica,
-
+  -  Doda sam razliku izmedu : Strimera i  Strimerica
 
   -  Redezajniro sam Staff team jer ih pola nije uopce vise na serveru Tako i sa strimerima,
 

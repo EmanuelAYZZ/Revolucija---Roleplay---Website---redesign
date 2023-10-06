@@ -7,9 +7,6 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
 
 # ( NAPOMENA -- NIJE GOTOVO )
 
-- Ovo je moj redesign ove stranice ( NAPOMENA -- NIJE GOTOVO )
-
-
 
   # Sve sto sam dodao i redizajnirao :
 

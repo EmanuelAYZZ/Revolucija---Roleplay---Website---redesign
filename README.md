@@ -28,4 +28,5 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
   -  Redezajniro sam Staff team jer ih pola nije uopce vise na serveru Tako i sa strimerima ( CSS isto )
 
 
-  # Evo to bi bilo to. Ja se nadam da cu jednog dana biti i ja na Revoluciji da moogu raditi sa njima (:.
+  # Live : https://emanuelayzz.github.io/Revolucija---Roleplay---Website---redesign
+  

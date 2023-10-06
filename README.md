@@ -1,4 +1,4 @@
-# Revolucija-Roleplay-Website Redizajn
+# Revolucija-Roleplay-Website Redesign
 
 Design by Seeki and its his script here is the link : https://github.com/Seekiii/revolucija-roleplay-website
 

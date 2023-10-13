@@ -6,6 +6,8 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
 
 # Sve sto sam dodao i redizajnirao :
 
+  - Stranica je u promijenjena u SE4 ( Boje i logo i jos neke sitnice )
+
   - Dodao sam Top Donatore,
  
   - Doda sam u nav bar Top Donatore da mozete brze doci do njih,

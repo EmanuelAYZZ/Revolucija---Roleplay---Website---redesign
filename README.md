@@ -1,12 +1,14 @@
 # Revolucija-Roleplay-Website Redesign
 
-# ( NAPOMENA -- NIJE GOTOVO )
+Design by Seeki and its his script here is the link : https://github.com/Seekiii/revolucija-roleplay-website
+
 
 Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github.com/Seekiii/revolucija-roleplay-website 
 
-# Sve sto sam dodao i redizajnirao :
+# ( NAPOMENA -- NIJE GOTOVO )
 
-  - Stranica je u promijenjena u SE4 ( Boje i logo i jos neke sitnice )
+
+  # Sve sto sam dodao i redizajnirao :
 
   - Dodao sam Top Donatore,
  
@@ -22,5 +24,6 @@ Ovu skriptu je radio Seeki ja sam ju samo redezajnirao evo link : https://github
 
   -  Redezajniro sam Staff team jer ih pola nije uopce vise na serveru Tako i sa strimerima ( CSS isto )
 
- 
- # Live Stranica : https://emanuelayzz.github.io/Revolucija---Roleplay---Website---redesign
+
+  # Live : https://emanuelayzz.github.io/Revolucija---Roleplay---Website---redesign
+  
